@@ -1,4 +1,4 @@
-package Task2;
+package Week5_3.Task2;
 
 import org.junit.jupiter.api.Test;
 

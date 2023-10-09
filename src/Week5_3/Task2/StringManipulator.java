@@ -1,4 +1,4 @@
-package Task2;
+package Week5_3.Task2;
 
 public class StringManipulator {
     public String concatenate(String str1, String str2) {
